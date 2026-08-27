@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<h3 align="center">
+  ✨ Welcome to my GitHub ✨
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI%2FML+Student+%F0%9F%A4%96;Learning+Python+%F0%9F%90%8D;Building+Cool+Projects+%F0%9F%92%BB;Welcome+to+my+profile+%E2%9C%A8" />
+</p>
+
 ##### I am Pragya(Engr. Who), an AIML enthusiast based in India.
 
 ##### I design and build whatever I like and imagine.
@@ -19,12 +27,6 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,flask,mysql,git,github,figma,vscode,pytorch" />
 </p>
 
-##### 🐍 Contribution Snake
-
-<img
-  alt="GitHub Snake"
-  src="https://raw.githubusercontent.com/EngrWho2006-debug/EngrWho2006-debug/output/github-contribution-grid-snake.svg"
-/>
 
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
