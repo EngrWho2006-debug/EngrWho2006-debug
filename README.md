@@ -21,10 +21,10 @@
 
 ##### 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/EngrWho2006-debug/EngrWho2006-debug/output/github-contribution-grid-snake.svg" />
-</p>
-
+<img
+  alt="GitHub Snake"
+  src="https://raw.githubusercontent.com/EngrWho2006-debug/EngrWho2006-debug/output/github-contribution-grid-snake.svg"
+/>
 
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
