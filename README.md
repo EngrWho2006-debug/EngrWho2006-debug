@@ -27,6 +27,10 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,flask,mysql,git,github,figma,vscode,pytorch" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/7qV3yswT0K8hi/giphy.gif" width="100">
+</p>
+
 
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
