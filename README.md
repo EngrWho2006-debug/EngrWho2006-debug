@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180">
 </p>
-
 
 ##### I am Pragya(Engr. Who), an AIML enthusiast based in India.
 
