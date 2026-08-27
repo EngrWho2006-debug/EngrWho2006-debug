@@ -19,6 +19,12 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,flask,mysql,git,github,figma,vscode,pytorch" />
 </p>
 
+##### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/EngrWho2006-debug/EngrWho2006-debug/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
