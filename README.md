@@ -1,17 +1,23 @@
 ## Hi there 👋
 
-#### I am Pragya(Engr. Who), an AIML enthusiast based in India.
+##### I am Pragya(Engr. Who), an AIML enthusiast based in India.
 
-#### I design and build whatever I like and imagine.
+##### I design and build whatever I like and imagine.
 
-#### Coffee helps me to think faster during nighttime and to solve bugs.
+##### Coffee helps me to think faster during nighttime and to solve bugs.
 
-#### For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
+##### For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
 
-### FunFacts:
+##### FunFacts:
 -> I like both tea and coffee.
 -> Watch anime and marvel movies are my fav works.
 -> Hobbies: anime, marvel, music, writting, drawing
+
+##### 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,flask,mysql,git,github,figma,vscode,pytorch" />
+</p>
 
 
 <!--
