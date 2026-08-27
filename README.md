@@ -21,6 +21,12 @@
 
 ##### For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EngrWho2006-debug&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ##### FunFacts:
 -> I like both tea and coffee.
 -> Watch anime and marvel movies are my fav works.
