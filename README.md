@@ -33,9 +33,8 @@
   <img src="https://media.giphy.com/media/7qV3yswT0K8hi/giphy.gif" width="220">
 </p>
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/7qV3yswT0K8hi/giphy.gif" width="100">
+  ☕ <i>Fueled by coffee & code</i> 💻
 </p>
 
 <!--
