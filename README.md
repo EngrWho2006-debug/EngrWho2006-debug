@@ -49,7 +49,7 @@
   ☕ <i>Fueled by coffee & code</i> 💻
 </p>
 
-
+---
 
 <p align="center">
   <picture>
