@@ -54,6 +54,11 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
 </p>
 
+###### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flask" />
+</p>
+
 ---
 
 <p align="center">
