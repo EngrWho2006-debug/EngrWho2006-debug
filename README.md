@@ -49,6 +49,11 @@
   ☕ <i>Fueled by coffee & code</i> 💻
 </p>
 
+###### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+</p>
+
 ---
 
 <p align="center">
