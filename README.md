@@ -76,11 +76,17 @@
 <table>
   <tr>
     <td>🤖 <b>Machine Learning</b></td>
+  </tr>
+  <tr>
     <td>🧠 <b>Generative AI</b></td>
+  </tr>
+  <tr>
     <td>⚡ <b>Advanced Python</b></td>
   </tr>
   <tr>
     <td>☁️ <b>Cloud & AI</b></td>
+  </tr>
+  <tr>
     <td>📚 <b>AI/ML Research</b></td>
   </tr>
 </table>
