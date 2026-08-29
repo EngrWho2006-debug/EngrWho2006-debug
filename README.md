@@ -36,7 +36,7 @@
 ##### 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,flask,mysql,git,github,figma,vscode,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,flask,mysql,git,github,figma,vscode,pytorch,tensorflow" />
 </p>
 
 
@@ -62,6 +62,11 @@
 ###### AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+###### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
