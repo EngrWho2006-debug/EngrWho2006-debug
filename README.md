@@ -4,6 +4,8 @@
   ✨ Welcome to my GitHub ✨
 </h3>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI%2FML+Student+%F0%9F%A4%96;Learning+Python+%F0%9F%90%8D;Building+Cool+Projects+%F0%9F%92%BB;Welcome+to+my+profile+%E2%9C%A8" />
 </p>
