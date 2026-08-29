@@ -59,6 +59,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,flask" />
 </p>
 
+###### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
 ---
 
 <p align="center">
