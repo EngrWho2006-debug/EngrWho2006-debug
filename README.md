@@ -71,13 +71,19 @@
 
 ---
 
-🔭 Currently Exploring
+##### 🔭 Currently Exploring
 
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Generative AI
-- ⚡ Advanced Python
-- ☁️ Cloud & AI deployment
-- 📚 Research-oriented AI/ML projects
+<table>
+  <tr>
+    <td>🤖 <b>Machine Learning</b></td>
+    <td>🧠 <b>Generative AI</b></td>
+    <td>⚡ <b>Advanced Python</b></td>
+  </tr>
+  <tr>
+    <td>☁️ <b>Cloud & AI</b></td>
+    <td>📚 <b>AI/ML Research</b></td>
+  </tr>
+</table>
 
 ---  
 
