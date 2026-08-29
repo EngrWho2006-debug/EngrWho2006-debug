@@ -10,12 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI%2FML+Student+%F0%9F%A4%96;Learning+Python+%F0%9F%90%8D;Building+Cool+Projects+%F0%9F%92%BB;Welcome+to+my+profile+%E2%9C%A8" />
 </p>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Code+with+curiosity.+Build+with+purpose.+%F0%9F%92%BB;Every+bug+is+just+another+lesson.+%E2%9C%A8;Dream+it.+Code+it.+Build+it.+%F0%9F%9A%80" />
 </p>
 
+---
 
 ##### I am Pragya(Engr. Who), an AIML enthusiast based in India.
 
