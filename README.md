@@ -71,6 +71,16 @@
 
 ---
 
+🔭 Currently Exploring
+
+- 🤖 Machine Learning & Deep Learning
+- 🧠 Generative AI
+- ⚡ Advanced Python
+- ☁️ Cloud & AI deployment
+- 📚 Research-oriented AI/ML projects
+
+---  
+
 ##### Snake Icon
 
 <p align="center">
