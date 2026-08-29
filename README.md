@@ -79,6 +79,31 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngrWho2006-debug/EngrWho2006-debug/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngrWho2006-debug/EngrWho2006-debug/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+##### Featured Project 
+
+###### 🌙 CHAYA — My Own Programming Language
+
+CHAYA is a programming language created from scratch to explore how programming languages work under the hood. I built it with a focus on simple syntax, readability, and learning through implementation.
+
+🔹 Built With: Python
+
+🔹 Type: Interpreted Programming Language
+
+🔹 Status: Active Development
+
+💡 Why I Built CHAYA
+
+Instead of only learning programming languages, I wanted to understand how a programming language is actually built — from parsing commands to executing them.
+
+CHAYA is my experiment in turning that curiosity into a real project.
+
+«"Don't just learn a language. Build one."»
+
+🔗 "View CHAYA on GitHub" 
+(https://github.com/EngrWho2006-debug/Chaya) 
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
