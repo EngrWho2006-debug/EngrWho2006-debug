@@ -31,6 +31,8 @@
 
 -> Hobbies: anime, marvel, music, writting, drawing
 
+---
+
 ##### 🛠️ Tech Stack
 
 <p>
