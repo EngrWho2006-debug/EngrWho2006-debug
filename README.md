@@ -22,6 +22,8 @@
 
 ##### For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
 
+---
+
 ##### FunFacts:
 -> I like both tea and coffee.
 
