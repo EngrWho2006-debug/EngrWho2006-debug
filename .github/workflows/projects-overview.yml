@@ -1,9 +1,9 @@
 name: Update Projects Overview
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -16,17 +16,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update GitHub Profile README
-        uses: theboi/github-update-readme@v1.3.0
+      - name: Update Projects Overview
+        uses: theboi/github-update-readme@v1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          header: "🚀 Projects Overview"
-          subhead: "A live snapshot of my most active repositories."
-          footer: ""
-          path: "README.md"
+          header: "PROJECTS:START"
+          subhead: "🚀 My Projects"
+          footer: "PROJECTS:END"
+          readmePath: "README.md"
           repoCount: "6"
-          reposPerRow: "3"
+          repoPerRow: "3"
           imageSize: "150"
-          excludeActivity: '["ForkEvent","WatchEvent"]'
+          excludeEvent: '["ForkEvent","WatchEvent"]'
           excludeRepo: "[]"
