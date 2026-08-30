@@ -126,6 +126,13 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 🔗 "View CHAYA on GitHub" 
 (https://github.com/EngrWho2006-debug/Chaya) 
+
+
+
+##### Projects Overview
+
+<!--START_PROJECTS_LIST-->
+<!--END_PROJECTS_LIST-->
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
