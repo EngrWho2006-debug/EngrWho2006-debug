@@ -2,27 +2,31 @@ name: Update Projects Overview
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # every 30 minutes; change to daily if you prefer
-  workflow_dispatch: {} # allow manual trigger from the Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Update GitHub Profile README
-        uses: theboi/github-update-readme@v1.0
+        uses: theboi/github-update-readme@v1.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          header: "## 🚀 Projects Overview"
+          header: "🚀 Projects Overview"
           subhead: "A live snapshot of my most active repositories."
           footer: ""
-          readmePath: "README.md"
-          repoCount: "6"       # how many repos to show
-          repoPerRow: "3"      # grid columns
+          path: "README.md"
+          repoCount: "6"
+          reposPerRow: "3"
           imageSize: "150"
-          excludeEvent: '["ForkEvent","WatchEvent"]'
-          excludeRepo: "[]"    # add repo names here to hide any, e.g. ["old-repo","test-repo"]
+          excludeActivity: '["ForkEvent","WatchEvent"]'
+          excludeRepo: "[]"
