@@ -31,6 +31,10 @@ jobs:
             }' \
             https://api.github.com/graphql > github-stats.json
 
+      - name: Generate chart
+        run: |
+          python generate-stats.py
+
       - name: Commit stats
         run: |
           git config --global user.name "github-actions[bot]"
