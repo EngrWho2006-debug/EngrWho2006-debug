@@ -173,7 +173,7 @@ CHAYA is my experiment in turning that curiosity into a real project.
 ---
 
 <img 
-  src="https://ghchart.rshah.org/YOUR_GITHUB_USERNAME" 
+  src="https://ghchart.rshah.org/EngrWho2006-debug" 
   alt="GitHub Contribution Chart"
   style="width: 100%; max-width: 800px;"
 />
