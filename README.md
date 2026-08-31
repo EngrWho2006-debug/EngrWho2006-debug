@@ -129,20 +129,7 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 ---
 
-##### 📊 GitHub Statistics
-
-<div align="center">
-
-| Stat | Value |
-|------|-------|
-| 🔗 **Total Repositories** | [View All](https://github.com/EngrWho2006-debug?tab=repositories) |
-| 💻 **Primary Languages** | Python, C++, Java, JavaScript |
-| 🛠️ **Main Tech** | Flask, React, PyTorch, TensorFlow |
-| 📈 **GitHub Profile** | [@EngrWho2006-debug](https://github.com/EngrWho2006-debug) |
-
-</div>
-
----
+##### Projects Overview
 
 <!-- PROJECTS START -->
 <!-- PROJECTS END -->
