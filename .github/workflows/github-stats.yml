@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Get GitHub Stats
@@ -31,15 +31,85 @@ jobs:
             }' \
             https://api.github.com/graphql > github-stats.json
 
-      - name: Generate chart
+      - name: Create SVG Chart
         run: |
-          python generate-stats.py
+          python - <<'PY'
+          import json
 
-      - name: Commit stats
+          with open("github-stats.json") as f:
+              data = json.load(f)
+
+          stats = data["data"]["user"]["contributionsCollection"]
+
+          items = [
+              ("Commits", stats["totalCommitContributions"]),
+              ("Issues", stats["totalIssueContributions"]),
+              ("Pull Requests", stats["totalPullRequestContributions"]),
+              ("PR Reviews", stats["totalPullRequestReviewContributions"]),
+              ("Repositories", stats["totalRepositoryContributions"])
+          ]
+
+          max_value = max(v for _, v in items) or 1
+
+          svg = '''<svg xmlns="http://www.w3.org/2000/svg"
+          width="800" height="420" viewBox="0 0 800 420">
+
+          <rect width="800" height="420" rx="20" fill="#0d1117"/>
+
+          <text x="40" y="55"
+          font-family="Arial"
+          font-size="28"
+          font-weight="bold"
+          fill="white">
+          GitHub Contributions
+          </text>
+          '''
+
+          y = 110
+
+          for name, value in items:
+              bar = int((value / max_value) * 550)
+
+              svg += f'''
+              <text x="40" y="{y}"
+              font-family="Arial"
+              font-size="17"
+              fill="#c9d1d9">{name}</text>
+
+              <rect x="190" y="{y-18}"
+              width="550" height="25"
+              rx="12"
+              fill="#21262d"/>
+
+              <rect x="190" y="{y-18}"
+              width="{bar}" height="25"
+              rx="12"
+              fill="#58a6ff"/>
+
+              <text x="760" y="{y}"
+              text-anchor="end"
+              font-family="Arial"
+              font-size="17"
+              fill="white">{value}</text>
+              '''
+
+              y += 60
+
+          svg += "</svg>"
+
+          with open("github-stats.svg", "w") as f:
+              f.write(svg)
+
+          print("SVG created successfully!")
+          PY
+
+      - name: Commit Files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add github-stats.json
+          git add github-stats.json github-stats.svg
+
           git commit -m "Update GitHub stats" || echo "No changes"
+
           git push
