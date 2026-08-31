@@ -170,12 +170,12 @@ CHAYA is my experiment in turning that curiosity into a real project.
   />
 </p>
 
----
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=EngrWho2006-debug&theme=dark" 
-  alt="GitHub Streak Stats"
+  src="https://github-contributions-api.jogruber.de/contributions/EngrWho2006-debug" 
+  alt="Contributions"
 />
+  
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
