@@ -155,15 +155,11 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=EngrWho2006-debug&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-
-  <img
     src="https://streak-stats.demolab.com/?user=EngrWho2006-debug&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
+
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
