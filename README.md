@@ -14,13 +14,13 @@
 
 ---
 
-##### I am Pragya(Engr. Who), an AIML enthusiast based in India.
+I am Pragya(Engr. Who), an AIML enthusiast based in India.
 
-##### I design and build whatever I like and imagine.
+I design and build whatever I like and imagine.
 
-##### Coffee helps me to think faster during nighttime and to solve bugs.
+Coffee helps me to think faster during nighttime and to solve bugs.
 
-##### For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
+For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
 
 ---
 
@@ -129,7 +129,7 @@ CHAYA is my experiment in turning that curiosity into a real project.
 ---
 
 <!-- PROJECTS START -->
-##### My Projects
+##### Projects Overview
 
 - **[EngrWho2006-debug](https://github.com/EngrWho2006-debug/EngrWho2006-debug)** - No description
 - **[Chaya](https://github.com/EngrWho2006-debug/Chaya)** - A new programming language which is easier than Python
