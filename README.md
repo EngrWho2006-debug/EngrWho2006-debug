@@ -128,6 +128,8 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 ---
 
+<!-- PROJECTS START -->
+<!-- PROJECTS END -->
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
