@@ -169,6 +169,17 @@ CHAYA is my experiment in turning that curiosity into a real project.
     height="180"
   />
 </p>
+
+---
+
+<h2 align="center">📅 Contribution Calendar</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EngrWho2006-debug&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
+</p>
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
