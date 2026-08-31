@@ -180,34 +180,17 @@ CHAYA is my experiment in turning that curiosity into a real project.
 />  
 
 
-<canvas id="clicksPieChart" width="400" height="400"></canvas>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-  const ctx = document.getElementById('clicksPieChart').getContext('2d');
-
-  new Chart(ctx, {
-    type: 'pie',
-    data: {
-      labels: ['GitHub', 'LinkedIn', 'Portfolio', 'Twitter', 'Resume'],
-      datasets: [{
-        data: [45, 30, 15, 6, 4], // click counts per link
-        backgroundColor: [
-          '#6366f1', '#22c55e', '#f97316', '#ec4899', '#06b6d4'
-        ],
-        borderWidth: 1
-      }]
-    },
-    options: {
-      responsive: true,
-      plugins: {
-        legend: { position: 'bottom' },
-        title: { display: true, text: 'Link Click Distribution' }
-      }
+query($username: String!) {
+  user(login: $username) {
+    contributionsCollection {
+      totalCommitContributions
+      totalIssueContributions
+      totalPullRequestContributions
+      totalPullRequestReviewContributions
+      totalRepositoryContributions
     }
-  });
-</script>
-
+  }
+}
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
