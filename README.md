@@ -161,6 +161,8 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 ---
 
+##### Chart and Table
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
