@@ -129,7 +129,7 @@ CHAYA is my experiment in turning that curiosity into a real project.
 ---
 
 <!-- PROJECTS START -->
-## My Projects
+##### My Projects
 
 - **[EngrWho2006-debug](https://github.com/EngrWho2006-debug/EngrWho2006-debug)** - No description
 - **[Chaya](https://github.com/EngrWho2006-debug/Chaya)** - A new programming language which is easier than Python
