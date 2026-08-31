@@ -14,13 +14,13 @@
 
 ---
 
-##### I am Pragya(Engr. Who), an AIML enthusiast based in India.
+I am Pragya(Engr. Who), an AIML enthusiast based in India.
 
-##### I design and build whatever I like and imagine.
+I design and build whatever I like and imagine.
 
-##### Coffee helps me to think faster during nighttime and to solve bugs.
+Coffee helps me to think faster during nighttime and to solve bugs.
 
-##### For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
+For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
 
 ---
 
@@ -159,6 +159,16 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 <!-- PROJECTS END -->
 
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=EngrWho2006-debug&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
