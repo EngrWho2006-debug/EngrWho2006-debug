@@ -24,9 +24,10 @@ jobs:
           header: "PROJECTS:START"
           subhead: "🚀 My Projects"
           footer: "PROJECTS:END"
-          readmePath: "README.md"
+          path: "README.md"
+          ref: "main"
           repoCount: "6"
-          repoPerRow: "3"
+          reposPerRow: "3"
           imageSize: "150"
-          excludeEvent: '["ForkEvent","WatchEvent"]'
+          excludeActivity: '["ForkEvent","WatchEvent"]'
           excludeRepo: "[]"
