@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="800" height="420" viewBox="0 0 800 420">
+
+<rect width="800" height="420" rx="20" fill="#0d1117"/>
+
+<text x="40" y="55"
+font-family="Arial"
+font-size="28"
+font-weight="bold"
+fill="white">
+GitHub Contributions
+</text>
+
+    <text x="40" y="110"
+    font-family="Arial"
+    font-size="17"
+    fill="#c9d1d9">Commits</text>
+
+    <rect x="190" y="92"
+    width="550" height="25"
+    rx="12"
+    fill="#21262d"/>
+
+    <rect x="190" y="92"
+    width="550" height="25"
+    rx="12"
+    fill="#58a6ff"/>
+
+    <text x="760" y="110"
+    text-anchor="end"
+    font-family="Arial"
+    font-size="17"
+    fill="white">116</text>
+    
+    <text x="40" y="170"
+    font-family="Arial"
+    font-size="17"
+    fill="#c9d1d9">Issues</text>
+
+    <rect x="190" y="152"
+    width="550" height="25"
+    rx="12"
+    fill="#21262d"/>
+
+    <rect x="190" y="152"
+    width="0" height="25"
+    rx="12"
+    fill="#58a6ff"/>
+
+    <text x="760" y="170"
+    text-anchor="end"
+    font-family="Arial"
+    font-size="17"
+    fill="white">0</text>
+    
+    <text x="40" y="230"
+    font-family="Arial"
+    font-size="17"
+    fill="#c9d1d9">Pull Requests</text>
+
+    <rect x="190" y="212"
+    width="550" height="25"
+    rx="12"
+    fill="#21262d"/>
+
+    <rect x="190" y="212"
+    width="0" height="25"
+    rx="12"
+    fill="#58a6ff"/>
+
+    <text x="760" y="230"
+    text-anchor="end"
+    font-family="Arial"
+    font-size="17"
+    fill="white">0</text>
+    
+    <text x="40" y="290"
+    font-family="Arial"
+    font-size="17"
+    fill="#c9d1d9">PR Reviews</text>
+
+    <rect x="190" y="272"
+    width="550" height="25"
+    rx="12"
+    fill="#21262d"/>
+
+    <rect x="190" y="272"
+    width="0" height="25"
+    rx="12"
+    fill="#58a6ff"/>
+
+    <text x="760" y="290"
+    text-anchor="end"
+    font-family="Arial"
+    font-size="17"
+    fill="white">0</text>
+    
+    <text x="40" y="350"
+    font-family="Arial"
+    font-size="17"
+    fill="#c9d1d9">Repositories</text>
+
+    <rect x="190" y="332"
+    width="550" height="25"
+    rx="12"
+    fill="#21262d"/>
+
+    <rect x="190" y="332"
+    width="52" height="25"
+    rx="12"
+    fill="#58a6ff"/>
+
+    <text x="760" y="350"
+    text-anchor="end"
+    font-family="Arial"
+    font-size="17"
+    fill="white">11</text>
+    </svg>
