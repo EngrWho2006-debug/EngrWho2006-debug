@@ -173,11 +173,9 @@ CHAYA is my experiment in turning that curiosity into a real project.
 ---
 
 <img 
-  src="https://ghchart.rshah.org/EngrWho2006-debug" 
-  alt="GitHub Contribution Chart"
-  style="width: 100%; max-width: 800px;"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=EngrWho2006-debug&theme=dark" 
+  alt="GitHub Streak Stats"
 />
-
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
