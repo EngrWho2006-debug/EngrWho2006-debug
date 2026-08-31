@@ -5,29 +5,33 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Get GitHub Stats
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -s -H "Authorization: bearer $GH_TOKEN" \
-          -H "Content-Type: application/json" \
-          -d '{
-            "query": "query($username: String!) { user(login: $username) { contributionsCollection { totalCommitContributions totalIssueContributions totalPullRequestContributions totalPullRequestReviewContributions totalRepositoryContributions } } }",
-            "variables": {
-              "username": "EngrWho2006-debug"
-            }
-          }' \
-          https://api.github.com/graphql > github-stats.json
+          curl -s \
+            -H "Authorization: bearer $GH_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "query": "query($username: String!) { user(login: $username) { contributionsCollection { totalCommitContributions totalIssueContributions totalPullRequestContributions totalPullRequestReviewContributions totalRepositoryContributions } } }",
+              "variables": {
+                "username": "EngrWho2006-debug"
+              }
+            }' \
+            https://api.github.com/graphql > github-stats.json
 
-      - name: Commit Stats
+      - name: Commit stats
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
