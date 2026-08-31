@@ -180,17 +180,6 @@ CHAYA is my experiment in turning that curiosity into a real project.
 />  
 
 
-query($username: String!) {
-  user(login: $username) {
-    contributionsCollection {
-      totalCommitContributions
-      totalIssueContributions
-      totalPullRequestContributions
-      totalPullRequestReviewContributions
-      totalRepositoryContributions
-    }
-  }
-}
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
