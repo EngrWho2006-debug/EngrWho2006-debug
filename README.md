@@ -131,20 +131,16 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 ##### 📊 GitHub Statistics
 
-###### GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EngrWho2006-debug&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
+<div align="center">
 
-###### Most Used Languages
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EngrWho2006-debug&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
-</p>
+| Stat | Value |
+|------|-------|
+| 🔗 **Total Repositories** | [View All](https://github.com/EngrWho2006-debug?tab=repositories) |
+| 💻 **Primary Languages** | Python, C++, Java, JavaScript |
+| 🛠️ **Main Tech** | Flask, React, PyTorch, TensorFlow |
+| 📈 **GitHub Profile** | [@EngrWho2006-debug](https://github.com/EngrWho2006-debug) |
 
-###### Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EngrWho2006-debug&theme=dark" alt="GitHub Contribution Streak" />
-</p>
+</div>
 
 ---
 
