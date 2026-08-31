@@ -133,17 +133,17 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 ###### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngrWho2006-debug&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EngrWho2006-debug&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 ###### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrWho2006-debug&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EngrWho2006-debug&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
 </p>
 
 ###### Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngrWho2006-debug&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=EngrWho2006-debug&theme=dark" alt="GitHub Contribution Streak" />
 </p>
 
 ---
