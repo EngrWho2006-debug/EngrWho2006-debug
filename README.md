@@ -91,6 +91,18 @@
   </tr>
 </table>
 
+---
+
+##### 📊 Most Used Languages
+
+| Language | Usage |
+|----------|-------|
+| 🐍 **Python** | 60% |
+| ☕ **Java** | 15% |
+| 🔧 **C++** | 10% |
+| 🌐 **JavaScript** | 10% |
+| 🎨 **Other** | 5% |
+
 ---  
 
 ##### Snake Icon
@@ -132,33 +144,7 @@ CHAYA is my experiment in turning that curiosity into a real project.
 ##### Projects Overview
 
 <!-- PROJECTS START -->
-## My Projects
-
-- **[EngrWho2006-debug](https://github.com/EngrWho2006-debug/EngrWho2006-debug)** - No description
-- **[Chaya](https://github.com/EngrWho2006-debug/Chaya)** - A new programming language which is easier than Python
-- **[PRODIGY_WD_02](https://github.com/EngrWho2006-debug/PRODIGY_WD_02)** - A mini stopwatch web application
-- **[PRODIGY_WD_01](https://github.com/EngrWho2006-debug/PRODIGY_WD_01)** - A responsive landing page project
-- **[PRODIGY_WD_03](https://github.com/EngrWho2006-debug/PRODIGY_WD_03)** - A simple tic tac toe game
-- **[E--commerce-Shopping-Cart-app](https://github.com/EngrWho2006-debug/E--commerce-Shopping-Cart-app)** - An online shopping app
-- **[Calendar-and-Reminder-App](https://github.com/EngrWho2006-debug/Calendar-and-Reminder-App)** - A small reminder app
-- **[Basic-Calculator](https://github.com/EngrWho2006-debug/Basic-Calculator)** - Basic GUI Calculator
-- **[Coffee-Toggle](https://github.com/EngrWho2006-debug/Coffee-Toggle)** - Coffee Toggle UI animation
-- **[My-Portfolio](https://github.com/EngrWho2006-debug/My-Portfolio)** - Welcome to my personal portfolio website.
-
 <!-- PROJECTS END -->
-
----
-
-##### GitHub Stats
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=EngrWho2006-debug&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
 
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
