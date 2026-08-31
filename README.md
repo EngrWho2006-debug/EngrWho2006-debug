@@ -14,13 +14,13 @@
 
 ---
 
-I am Pragya(Engr. Who), an AIML enthusiast based in India.
+##### I am Pragya(Engr. Who), an AIML enthusiast based in India.
 
-I design and build whatever I like and imagine.
+##### I design and build whatever I like and imagine.
 
-Coffee helps me to think faster during nighttime and to solve bugs.
+##### Coffee helps me to think faster during nighttime and to solve bugs.
 
-For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
+##### For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
 
 ---
 
@@ -101,6 +101,7 @@ For now, I am working on CHAYA a high-level language, easier than python but it 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngrWho2006-debug/EngrWho2006-debug/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EngrWho2006-debug/EngrWho2006-debug/output/github-contribution-grid-snake.svg" />
 </picture>
+</p>
 
 ---
 
@@ -128,21 +129,28 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 ---
 
+##### 📊 GitHub Statistics
+
+###### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EngrWho2006-debug&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+###### Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrWho2006-debug&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+###### Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngrWho2006-debug&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
 <!-- PROJECTS START -->
-##### Projects Overview
-
-- **[EngrWho2006-debug](https://github.com/EngrWho2006-debug/EngrWho2006-debug)** - No description
-- **[Chaya](https://github.com/EngrWho2006-debug/Chaya)** - A new programming language which is easier than Python
-- **[PRODIGY_WD_02](https://github.com/EngrWho2006-debug/PRODIGY_WD_02)** - A mini stopwatch web application
-- **[PRODIGY_WD_01](https://github.com/EngrWho2006-debug/PRODIGY_WD_01)** - A responsive landing page project
-- **[PRODIGY_WD_03](https://github.com/EngrWho2006-debug/PRODIGY_WD_03)** - A simple tic tac toe game
-- **[E--commerce-Shopping-Cart-app](https://github.com/EngrWho2006-debug/E--commerce-Shopping-Cart-app)** - An online shopping app
-- **[Calendar-and-Reminder-App](https://github.com/EngrWho2006-debug/Calendar-and-Reminder-App)** - A small reminder app
-- **[Basic-Calculator](https://github.com/EngrWho2006-debug/Basic-Calculator)** - Basic GUI Calculator
-- **[Coffee-Toggle](https://github.com/EngrWho2006-debug/Coffee-Toggle)** - Coffee Toggle UI animation
-- **[My-Portfolio](https://github.com/EngrWho2006-debug/My-Portfolio)** - Welcome to my personal portfolio website.
-
 <!-- PROJECTS END -->
+
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
