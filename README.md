@@ -160,8 +160,14 @@ CHAYA is my experiment in turning that curiosity into a real project.
   />
 </p>
 
+<h2 align="center">💻 Languages I Use</h2>
 
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrWho2006-debug&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="400"
+  />
+</p>
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
