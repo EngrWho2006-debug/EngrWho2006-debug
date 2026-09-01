@@ -30,7 +30,7 @@ GitHub Contributions
     text-anchor="end"
     font-family="Arial"
     font-size="17"
-    fill="white">116</text>
+    fill="white">132</text>
     
     <text x="40" y="170"
     font-family="Arial"
@@ -106,7 +106,7 @@ GitHub Contributions
     fill="#21262d"/>
 
     <rect x="190" y="332"
-    width="52" height="25"
+    width="45" height="25"
     rx="12"
     fill="#58a6ff"/>
 
