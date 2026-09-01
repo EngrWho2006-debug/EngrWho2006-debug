@@ -184,6 +184,28 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 <img src="./languages.svg" width="800">
 
+---
+
+
+##### 🔗 Connect With Me
+
+<p align="center">
+  <a href="[Portfolio](https://my-portfolio-one-mu-22.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="[GITHUB](https://github.com/EngrWho2006-debug)" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="[LINKEDIN](https://www.linkedin.com/in/pragya-s-141824317/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[LEETCODE](https://leetcode.com/u/PragyaSingh16/)" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:singhpragya1682006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
