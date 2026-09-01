@@ -213,6 +213,16 @@ CHAYA is my experiment in turning that curiosity into a real project.
 </a>
 
 </p>
+
+---
+
+##### Quotes
+
+<p align="center">
+  <i>"The only way to do great work is to love what you do."</i>
+  <br>
+  <b>— Steve Jobs </b>
+</p>
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
