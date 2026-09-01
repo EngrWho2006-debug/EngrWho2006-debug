@@ -1,0 +1,219 @@
+name: Update Top Languages
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get Repository Languages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PY'
+          import json
+          import urllib.request
+
+          username = "EngrWho2006-debug"
+
+          query = """
+          query($username: String!) {
+            user(login: $username) {
+              repositories(
+                first: 100
+                ownerAffiliations: OWNER
+                privacy: PUBLIC
+                isFork: false
+              ) {
+                nodes {
+                  languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
+                    edges {
+                      size
+                      node {
+                        name
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          payload = json.dumps({
+              "query": query,
+              "variables": {"username": username}
+          }).encode()
+
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=payload,
+              headers={
+                  "Authorization": "bearer " + __import__("os").environ["GH_TOKEN"],
+                  "Content-Type": "application/json"
+              }
+          )
+
+          with urllib.request.urlopen(request) as response:
+              data = json.load(response)
+
+          with open("languages-data.json", "w") as f:
+              json.dump(data, f, indent=2)
+
+          print("Language data fetched successfully!")
+          PY
+
+      - name: Create Language Pie Chart
+        run: |
+          python - <<'PY'
+          import json
+          import math
+
+          with open("languages-data.json") as f:
+              data = json.load(f)
+
+          repositories = data["data"]["user"]["repositories"]["nodes"]
+
+          languages = {}
+
+          for repo in repositories:
+              for edge in repo["languages"]["edges"]:
+                  name = edge["node"]["name"]
+                  size = edge["size"]
+                  languages[name] = languages.get(name, 0) + size
+
+          languages = dict(
+              sorted(
+                  languages.items(),
+                  key=lambda x: x[1],
+                  reverse=True
+              )
+          )
+
+          # Keep top 6 languages
+          top = list(languages.items())[:6]
+
+          total = sum(value for _, value in top)
+
+          if total == 0:
+              raise SystemExit("No language data found.")
+
+          colors = [
+              "#58a6ff",
+              "#f1e05a",
+              "#3178c6",
+              "#e34c26",
+              "#563d7c",
+              "#a97bff"
+          ]
+
+          cx = 250
+          cy = 230
+          radius = 150
+
+          svg = '''<svg xmlns="http://www.w3.org/2000/svg"
+          width="800"
+          height="500"
+          viewBox="0 0 800 500">
+
+          <rect width="800" height="500" rx="20" fill="#0d1117"/>
+
+          <text x="40" y="55"
+          font-family="Arial"
+          font-size="28"
+          font-weight="bold"
+          fill="white">
+          Top Languages
+          </text>
+          '''
+
+          start_angle = -math.pi / 2
+
+          for i, (name, value) in enumerate(top):
+              percentage = value / total
+              angle = percentage * 2 * math.pi
+              end_angle = start_angle + angle
+
+              x1 = cx + radius * math.cos(start_angle)
+              y1 = cy + radius * math.sin(start_angle)
+
+              x2 = cx + radius * math.cos(end_angle)
+              y2 = cy + radius * math.sin(end_angle)
+
+              large_arc = 1 if angle > math.pi else 0
+
+              path = (
+                  f"M {cx} {cy} "
+                  f"L {x1:.2f} {y1:.2f} "
+                  f"A {radius} {radius} 0 "
+                  f"{large_arc} 1 {x2:.2f} {y2:.2f} Z"
+              )
+
+              svg += f'''
+              <path d="{path}"
+              fill="{colors[i]}"
+              stroke="#0d1117"
+              stroke-width="3"/>
+              '''
+
+              start_angle = end_angle
+
+          # Legend
+          y = 125
+
+          for i, (name, value) in enumerate(top):
+              percentage = value / total * 100
+
+              svg += f'''
+              <rect x="500" y="{y-15}"
+              width="18" height="18"
+              rx="4"
+              fill="{colors[i]}"/>
+
+              <text x="530" y="{y}"
+              font-family="Arial"
+              font-size="17"
+              fill="#c9d1d9">
+              {name}
+              </text>
+
+              <text x="735" y="{y}"
+              text-anchor="end"
+              font-family="Arial"
+              font-size="17"
+              font-weight="bold"
+              fill="white">
+              {percentage:.1f}%
+              </text>
+              '''
+
+              y += 48
+
+          svg += "</svg>"
+
+          with open("languages.svg", "w") as f:
+              f.write(svg)
+
+          print("Language pie chart created!")
+          PY
+
+      - name: Commit Language Chart
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add languages-data.json languages.svg
+
+          git commit -m "Update top languages chart" || echo "No changes"
+
+          git push
