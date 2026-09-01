@@ -1,0 +1,214 @@
+{
+  "data": {
+    "user": {
+      "repositories": {
+        "nodes": [
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 1851,
+                  "node": {
+                    "name": "JavaScript"
+                  }
+                },
+                {
+                  "size": 956,
+                  "node": {
+                    "name": "HTML"
+                  }
+                },
+                {
+                  "size": 433,
+                  "node": {
+                    "name": "CSS"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 7196,
+                  "node": {
+                    "name": "CSS"
+                  }
+                },
+                {
+                  "size": 6073,
+                  "node": {
+                    "name": "HTML"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 43551,
+                  "node": {
+                    "name": "Python"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 5042,
+                  "node": {
+                    "name": "CSS"
+                  }
+                },
+                {
+                  "size": 872,
+                  "node": {
+                    "name": "HTML"
+                  }
+                },
+                {
+                  "size": 576,
+                  "node": {
+                    "name": "JavaScript"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 4125,
+                  "node": {
+                    "name": "Python"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 5451,
+                  "node": {
+                    "name": "Python"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 7380,
+                  "node": {
+                    "name": "HTML"
+                  }
+                },
+                {
+                  "size": 3879,
+                  "node": {
+                    "name": "Python"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 5640,
+                  "node": {
+                    "name": "JavaScript"
+                  }
+                },
+                {
+                  "size": 3456,
+                  "node": {
+                    "name": "CSS"
+                  }
+                },
+                {
+                  "size": 1792,
+                  "node": {
+                    "name": "HTML"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 3578,
+                  "node": {
+                    "name": "CSS"
+                  }
+                },
+                {
+                  "size": 1992,
+                  "node": {
+                    "name": "HTML"
+                  }
+                },
+                {
+                  "size": 894,
+                  "node": {
+                    "name": "JavaScript"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 2803,
+                  "node": {
+                    "name": "CSS"
+                  }
+                },
+                {
+                  "size": 2146,
+                  "node": {
+                    "name": "JavaScript"
+                  }
+                },
+                {
+                  "size": 768,
+                  "node": {
+                    "name": "HTML"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 1403,
+                  "node": {
+                    "name": "Python"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
