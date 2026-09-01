@@ -181,6 +181,8 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 
 <img src="./github-stats.svg" width="600">
+
+<img src="./languages.svg" width="800">
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
