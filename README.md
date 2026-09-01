@@ -233,6 +233,17 @@ CHAYA is my experiment in turning that curiosity into a real project.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B9DFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code+%E2%9C%A8;Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+projects+that+actually+feel+fun+%F0%9F%8C%99;One+commit+at+a+time+%F0%9F%92%BB" />
 </p>
+
+###### 🐾 Coding Mood
+
+```text
+        ☕
+       /|\
+      / | \        💻
+     /  |  \     ┌─────────┐
+    🐱  |       │  CODE   │
+        / \      │  >_    │
+       /   \     └─────────┘
 <!--
 **EngrWho2006-debug/EngrWho2006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
