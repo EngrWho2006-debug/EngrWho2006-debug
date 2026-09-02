@@ -226,7 +226,18 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 ---
 
-##### 🌙 Currently Vibing
+##### Personal Vision
+
+«“I want to build technology that doesn't just solve problems, but creates possibilities.”»
+
+My vision is to keep learning, building, and experimenting at the intersection of Artificial Intelligence, creativity, and software engineering.
+I want to turn ideas into meaningful projects, keep pushing my limits, and create something that people can genuinely use and remember.
+
+Learn → Build → Fail → Improve → Create ✨
+
+---
+
+##### Currently Vibing
 
 > ☕ Building things, breaking things, and learning how to fix them.
 
