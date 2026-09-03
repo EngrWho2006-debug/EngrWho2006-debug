@@ -16,51 +16,25 @@
 
 ##### Introduction
 
-```text
-$ whoami
+'''python
+class Pragya:
+    def _init_(self):
+        self.name = "Pragya"
+        self.alias = "Engr. Who"
+        self.role = "AIML Enthusiast"
+        self.location = "India"
+        self.philosophy = "I design and build whatever I like and imagine"
+        self.fuel = "Coffee — helps me think faster at night and squash bugs"
+        self.current_project = "CHAYA — a high-level language, easier than Python, but vast"
 
-Pragya Singh
-aka "Engr. Who"
+    def say_hi(self):
+        print("Thanks for stopping by my profile! 👋")
 
-$ role
-B.Tech AIML Student | Developer | AI/ML Enthusiast
 
-$ location
-India 🇮🇳
+pragya = Pragya()
+pragya.say_hi()
 
-$ interests
-→ Artificial Intelligence
-→ Machine Learning
-→ Web Development
-→ Problem Solving
-→ Building things I imagine
-
-$ currently_learning
-→ Python
-→ Data Structures & Algorithms
-→ AI/ML
-→ Full-Stack Development
-
-$ currently_building
-→ CHAYA
-  A high-level programming language
-  Easier than Python • Vast in possibilities
-
-$ fuel
-☕ Coffee
-→ Faster thoughts
-→ Late-night coding
-→ Bug hunting 🐛
-
-$ philosophy
-"I design and build whatever I like and imagine."
-
-$ mission
-"Learn. Build. Break. Fix. Repeat."
-
-$ status
-[████████████████████] 100% curious
-```
+'''
 
 ---
 
