@@ -33,8 +33,7 @@ class Pragya:
 
 pragya = Pragya()
 pragya.say_hi()
-```​
-
+```
 ---
 
 ##### FunFacts:
