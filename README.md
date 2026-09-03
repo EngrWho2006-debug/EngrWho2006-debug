@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 Introduction
+##### Introduction
 
 ```python
 class Pragya:
