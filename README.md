@@ -14,7 +14,24 @@
 
 ---
 
+```python
+class Pragya:
+    def __init__(self):
+        self.name = "Pragya"
+        self.alias = "Engr. Who"
+        self.role = "AIML Enthusiast"
+        self.location = "India"
+        self.philosophy = "I design and build whatever I like and imagine"
+        self.fuel = "Coffee — helps me think faster at night and squash bugs"
+        self.current_project = "CHAYA — a high-level language, easier than Python, but vast"
+
+    def say_hi(self):
+        print("Thanks for stopping by my profile! 👋")
+
+pragya = Pragya()
+pragya.say_hi()
 ​
+
 ---
 
 ##### FunFacts:
