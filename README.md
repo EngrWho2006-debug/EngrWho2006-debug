@@ -16,9 +16,9 @@
 
 ##### Introduction
 
-'''python
+```python
 class Pragya:
-    def _init_(self):
+    def __init__(self):
         self.name = "Pragya"
         self.alias = "Engr. Who"
         self.role = "AIML Enthusiast"
@@ -33,9 +33,7 @@ class Pragya:
 
 pragya = Pragya()
 pragya.say_hi()
-
-'''
-
+```
 ---
 
 ##### FunFacts:
