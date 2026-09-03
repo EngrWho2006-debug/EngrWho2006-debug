@@ -39,7 +39,7 @@ pragya.say_hi()
 ##### FunFacts:
 -> I like both tea and coffee.
 
--> Watch anime and marvel movies are my fav works.
+-> Watching anime and marvel movies are my fav works.
 
 -> Hobbies: anime, marvel, music, writting, drawing
 
