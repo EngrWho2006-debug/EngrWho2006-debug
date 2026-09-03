@@ -14,13 +14,23 @@
 
 ---
 
-I am Pragya(Engr. Who), an AIML enthusiast based in India.
+​```python
+class Pragya:
+    def __init__(self):
+        self.name = "Pragya"
+        self.alias = "Engr. Who"
+        self.role = "AIML Enthusiast"
+        self.location = "India"
+        self.philosophy = "I design and build whatever I like and imagine"
+        self.fuel = "Coffee — helps me think faster at night and squash bugs"
+        self.current_project = "CHAYA — a high-level language, easier than Python, but vast"
 
-I design and build whatever I like and imagine.
+    def say_hi(self):
+        print("Thanks for stopping by my profile! 👋")
 
-Coffee helps me to think faster during nighttime and to solve bugs.
-
-For now, I am working on CHAYA a high-level language, easier than python but it will be vast.
+pragya = Pragya()
+pragya.say_hi()
+​```
 
 ---
 
