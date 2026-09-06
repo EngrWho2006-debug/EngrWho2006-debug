@@ -227,6 +227,8 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 ###### Coding Platform
 
+<p align="center">
+
 <a href="https://leetcode.com/u/PragyaSingh16/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
