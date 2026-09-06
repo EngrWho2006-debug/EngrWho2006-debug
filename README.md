@@ -202,6 +202,8 @@ CHAYA is my experiment in turning that curiosity into a real project.
 
 ##### 🔗 Connect With Me
 
+###### Primary
+
 
 <p align="center">
 
