@@ -168,6 +168,7 @@ CHAYA is my experiment in turning that curiosity into a real project.
 - **[Basic-Calculator](https://github.com/EngrWho2006-debug/Basic-Calculator)** - Basic GUI Calculator
 - **[Coffee-Toggle](https://github.com/EngrWho2006-debug/Coffee-Toggle)** - Coffee Toggle UI animation
 - **[My-Portfolio](https://github.com/EngrWho2006-debug/My-Portfolio)** - Welcome to my personal portfolio website.
+- **[LeetCode-Solutions](https://github.com/EngrWho2006-debug/LeetCode-Solutions)** - Solutions of LeetCode.
 
 <!-- PROJECTS END -->
 
