@@ -159,6 +159,7 @@ CHAYA is my experiment in turning that curiosity into a real project.
 ## My Projects
 
 - **[EngrWho2006-debug](https://github.com/EngrWho2006-debug/EngrWho2006-debug)** - No description
+- **[LeetCode-Solutions](https://github.com/EngrWho2006-debug/LeetCode-Solutions)** - No description
 - **[Chaya](https://github.com/EngrWho2006-debug/Chaya)** - A new programming language which is easier than Python
 - **[PRODIGY_WD_02](https://github.com/EngrWho2006-debug/PRODIGY_WD_02)** - A mini stopwatch web application
 - **[PRODIGY_WD_01](https://github.com/EngrWho2006-debug/PRODIGY_WD_01)** - A responsive landing page project
@@ -167,8 +168,6 @@ CHAYA is my experiment in turning that curiosity into a real project.
 - **[Calendar-and-Reminder-App](https://github.com/EngrWho2006-debug/Calendar-and-Reminder-App)** - A small reminder app
 - **[Basic-Calculator](https://github.com/EngrWho2006-debug/Basic-Calculator)** - Basic GUI Calculator
 - **[Coffee-Toggle](https://github.com/EngrWho2006-debug/Coffee-Toggle)** - Coffee Toggle UI animation
-- **[My-Portfolio](https://github.com/EngrWho2006-debug/My-Portfolio)** - Welcome to my personal portfolio website.
-- **[LeetCode-Solutions](https://github.com/EngrWho2006-debug/LeetCode-Solutions)** - Solutions of LeetCode.
 
 <!-- PROJECTS END -->
 
