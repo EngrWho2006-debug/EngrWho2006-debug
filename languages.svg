@@ -13,22 +13,22 @@ fill="white">
 Top Languages
 </text>
 
-    <path d="M 250 230 L 250.00 80.00 A 150 150 0 1 1 198.00 370.70 Z"
+    <path d="M 250 230 L 250.00 80.00 A 150 150 0 1 1 193.22 368.84 Z"
     fill="#58a6ff"
     stroke="#0d1117"
     stroke-width="3"/>
     
-    <path d="M 250 230 L 198.00 370.70 A 150 150 0 0 1 100.14 236.43 Z"
+    <path d="M 250 230 L 193.22 368.84 A 150 150 0 0 1 100.04 233.46 Z"
     fill="#f1e05a"
     stroke="#0d1117"
     stroke-width="3"/>
     
-    <path d="M 250 230 L 100.14 236.43 A 150 150 0 0 1 167.89 104.47 Z"
+    <path d="M 250 230 L 100.04 233.46 A 150 150 0 0 1 168.78 103.89 Z"
     fill="#3178c6"
     stroke="#0d1117"
     stroke-width="3"/>
     
-    <path d="M 250 230 L 167.89 104.47 A 150 150 0 0 1 250.00 80.00 Z"
+    <path d="M 250 230 L 168.78 103.89 A 150 150 0 0 1 250.00 80.00 Z"
     fill="#e34c26"
     stroke="#0d1117"
     stroke-width="3"/>
@@ -51,7 +51,7 @@ Top Languages
     font-size="17"
     font-weight="bold"
     fill="white">
-    55.6%
+    56.2%
     </text>
     
     <rect x="500" y="158"
@@ -72,7 +72,7 @@ Top Languages
     font-size="17"
     font-weight="bold"
     fill="white">
-    18.7%
+    18.5%
     </text>
     
     <rect x="500" y="206"
@@ -93,7 +93,7 @@ Top Languages
     font-size="17"
     font-weight="bold"
     fill="white">
-    16.5%
+    16.3%
     </text>
     
     <rect x="500" y="254"
@@ -114,6 +114,6 @@ Top Languages
     font-size="17"
     font-weight="bold"
     fill="white">
-    9.2%
+    9.1%
     </text>
     </svg>

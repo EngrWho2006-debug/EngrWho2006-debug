@@ -211,7 +211,7 @@
             "languages": {
               "edges": [
                 {
-                  "size": 8616,
+                  "size": 10110,
                   "node": {
                     "name": "Python"
                   }
