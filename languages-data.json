@@ -218,6 +218,30 @@
                 }
               ]
             }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 5747,
+                  "node": {
+                    "name": "JavaScript"
+                  }
+                },
+                {
+                  "size": 4654,
+                  "node": {
+                    "name": "CSS"
+                  }
+                },
+                {
+                  "size": 1650,
+                  "node": {
+                    "name": "HTML"
+                  }
+                }
+              ]
+            }
           }
         ]
       }
