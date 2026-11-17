@@ -242,6 +242,18 @@
                 }
               ]
             }
+          },
+          {
+            "languages": {
+              "edges": [
+                {
+                  "size": 21193676,
+                  "node": {
+                    "name": "Jupyter Notebook"
+                  }
+                }
+              ]
+            }
           }
         ]
       }
