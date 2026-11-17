@@ -158,6 +158,7 @@ CHAYA is my experiment in turning that curiosity into a real project.
 <!-- PROJECTS START -->
 ## My Projects
 
+- **[BRISC-XAI-Brain-Tumor](https://github.com/EngrWho2006-debug/BRISC-XAI-Brain-Tumor)** - Comparative study of RepViT, ConvNeXt V2 and MobileNetV4 for 4-class brain tumor MRI classification on BRISC 2025, using leakage-aware splits, 3-seed evaluation and Grad-CAM explainability.
 - **[EngrWho2006-debug](https://github.com/EngrWho2006-debug/EngrWho2006-debug)** - No description
 - **[LeetCode-Solutions](https://github.com/EngrWho2006-debug/LeetCode-Solutions)** - No description
 - **[minimal-habit-tracker](https://github.com/EngrWho2006-debug/minimal-habit-tracker)** - A minimal and responsive habit tracker built with HTML, CSS and JavaScript
@@ -167,7 +168,6 @@ CHAYA is my experiment in turning that curiosity into a real project.
 - **[PRODIGY_WD_03](https://github.com/EngrWho2006-debug/PRODIGY_WD_03)** - A simple tic tac toe game
 - **[E--commerce-Shopping-Cart-app](https://github.com/EngrWho2006-debug/E--commerce-Shopping-Cart-app)** - An online shopping app
 - **[Calendar-and-Reminder-App](https://github.com/EngrWho2006-debug/Calendar-and-Reminder-App)** - A small reminder app
-- **[Basic-Calculator](https://github.com/EngrWho2006-debug/Basic-Calculator)** - Basic GUI Calculator
 
 <!-- PROJECTS END -->
 
